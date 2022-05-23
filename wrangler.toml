@@ -1,0 +1,7 @@
+name = "heyiwaswatchingthat"
+compatibility_date = "2022-05-22"
+account_id = "45fae5c01c8266af651afec9c8b38014"
+
+kv_namespaces = [
+    { binding = "ACCOUNTS", id = "d5c3125a08234334b093ed00ebf19535" }
+]
